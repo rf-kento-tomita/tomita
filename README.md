@@ -5,3 +5,6 @@ GitHub練習用
 重要な物はcommitしないようにお願いします。
 
 GitHubの練習に活用してください。
+
+## pull requestのテスト
+リクエストしてみる
