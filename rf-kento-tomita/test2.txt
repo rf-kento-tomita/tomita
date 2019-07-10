@@ -1,2 +1,3 @@
 ﻿テスト用プルリクエストを送ってみる
+tomita2子ブランチとしてmasterにプルリクエストを送る
 tomitaMasterをmasterとして扱ってみる
